@@ -1,0 +1,38 @@
+.fon{
+	margin: 400px auto 0px;
+	width: 100%px;
+	height: 1000px;
+	background-position: background-position: right top;
+	margin-top: -10px;
+	background: url(../img/fon.png) no-repeat center;
+}
+h2 {font-size: 30px; 
+position	: absolute; 
+white-space: nowrap;
+	top		: 300px;
+	left		: 10%;
+	width		: 100%;
+    word-spacing: 10px;
+	color: white;
+}
+
+h3 { font-size: 20px;
+position	: absolute;
+ white-space: nowrap;
+	top		: 350px;
+	left		: 30%;
+	width		: 100%;
+    word-spacing: 4px;
+	color: white;
+}
+
+h4 { font-size: 20px;
+position	: relative;
+ white-space: nowrap;
+	top		: 400px;
+	left		: 50%;
+	width		: 100%;
+    word-spacing: 5px;
+	color: white;
+}
+
